@@ -1,0 +1,5 @@
+Full Name: Phemelo Tlapu
+GitHub Username: TlapuDev
+Date Started: 2026-10-17
+Auth Method: PAT (HTTPS)
+One Git habit I want to improve: I want to inspect my changes with git status and git diff before committing.
