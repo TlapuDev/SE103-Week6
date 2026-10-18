@@ -1,0 +1,20 @@
+Student Name: Phemelo Tlapu
+
+What changed:
+I updated the README.md file by adding a section titled "How I use Git carefully".
+The section describes four habits I use to work carefully with Git.
+I kept my student name and GitHub username at the top of the README.
+
+How I verified the change:
+I used cat README.md to check that the new section and all four habits appeared correctly.
+I checked that my identity lines were still present at the top.
+I will review the changes with git diff before committing them.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest adding examples of when to use each Git command.
+They might also recommend keeping each habit concise and easy to understand.
+
+Professional response I would give:
+Thank you for reviewing my changes and sharing your suggestions.
+I will consider your feedback and make any useful improvements.
+I appreciate the opportunity to learn from the review process.
