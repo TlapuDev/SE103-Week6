@@ -1,0 +1,18 @@
+Student Name: Phemelo Tlapu
+GitHub Username: TlapuDev
+Repository: SE103-Week6
+Repository URL: https://github.com/TlapuDev/SE103-Week6
+
+Git habits I demonstrated this week:
+I checked git status to understand which files had changed before staging them.
+I used git diff and git diff --cached to review changes before committing.
+I wrote clear commit messages that describe the purpose of each change.
+I used a .gitignore file to keep temporary files and secret files out of commits.
+I created a separate branch, reviewed my changes, and merged them through a pull request.
+
+One mistake-prevention habit I will keep:
+I will check git status before staging or committing files.
+I will review my changes carefully to catch mistakes before they enter the repository.
+I will verify that sensitive and temporary files are not included in my commits.
+
+All required files are on main: Yes
