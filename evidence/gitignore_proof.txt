@@ -1,0 +1,19 @@
+Student Name: Phemelo Tlapu
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+Git status did not list secret.env, temp/temp_note.txt, or practice/app.log as files to commit.
+This showed that Git was applying my ignore rules to those paths.
+The files remain on my computer but are not included in the changes ready to commit.
+I checked the ignore rules with git check-ignore to verify that all three files were ignored.
+
+Why committing secrets is dangerous:
+Secret files can contain API keys, passwords, or tokens that give access to accounts and services.
+If a secret is pushed to GitHub, other people may copy and misuse it.
+Deleting the file later may not remove it from the repository's commit history.
+Keeping secrets out of commits helps protect accounts, data, and services.
